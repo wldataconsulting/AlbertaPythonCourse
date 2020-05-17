@@ -11,7 +11,7 @@ Welcome to the Syllabus for our Python course! This repository is a reflection o
   - [edX Introduction to Computer Science and Programming Using Python] (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5)
 
 ## Online Help
-  - Online Experts- [SQL Camp](www.sqlcamp.ca - Pair with an expert mentor remotely)
+  - Online Experts- [SQL Camp](www.sqlcamp.ca - Pair with an expert mentor remotely, code coaching, professional tutoring)
 
 ## Platform for Python Tutorials
   - [w3 Schools - Largest Python Tutorial Site on Web - Also other languages](https://www.w3schools.com/python)
