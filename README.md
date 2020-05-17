@@ -59,29 +59,11 @@ Welcome to the Syllabus for our Python course! This repository is a reflection o
 
 We look at the Anaconda distribution for Python and install it 
 
-1. [JavaScript Introduction](./javascript/intro.md)
-2. [JavaScript Conditionals](./javascript/conditionals.md)
-3. [JavaScript Arrays](./javascript/arrays.md)
-4. [JavaScript Loops](./javascript/loops.md)
-5. [JavaScript Functions](./javascript/functions.md)
-6. [JavaScript Functions, Loops, and Arrays](./javascript/functions-loops-arrays.md)
-7. [JavaScript Higher-Order Functions](./javascript/higher-order-functions.md)
-1. [JavaScript Testing with Jest](./javascript/jest.md)
-2. [JavaScript Objects](./javascript/objects.md)
-3. [JavaScript Classes](./javascript/classes.md)
-3. [JavaScript Class Inheritance](./javascript/class-inheritance.md)
-
-#### Additional Topics:
-
-- [Spread Syntax](./javascript/spread-operator.md)
-- [Template Literal](./javascript/template-literals.md)
+1. COMING SOON
 
 ## Unit Two: Strings in Python
 
 React is a powerful Javascript library used to build more complicated web applications.
 
-1. [React Introduction](./react/intro.md/)
-2. [React Components](./react/nested-components.md)
-3. [Create React App](./react/create-react-app.md)
-4. [React State](./react/state.md/)
-4. [React State with Images](./react/state-with-images.md/)
+1. COMING SOON
+
